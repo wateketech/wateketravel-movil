@@ -8,9 +8,11 @@ Wateke Travel hybrid app for travel agents; API from wateketravel.com
 
 ## License
 
+....
+<!-- 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0) -->
 
 ## Used By
 
@@ -22,7 +24,7 @@ This project is used by the following companies:
 
 ## Support
 
-For support, email soporteit@wateke.tech or email albertolicea00@icloud.com.
+For support, email soporteit@wateke.tech or email pjunior@wateke.tech.
 
 
 ## Screenshots
@@ -88,4 +90,6 @@ Start the server
 ## Authors
 
 - [@albertolicea00](https://www.github.com/albertolicea00)
+- [@Edes7191](https://github.com/Edes7191)
+
 
