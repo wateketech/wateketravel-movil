@@ -1,6 +1,6 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+<!-- ![Logo](https://wateke.travel/wp-content/uploads/2022/10/LOGO-WTK-OFICIAL-negro-bolas.png) -->
+![Logo](https://wateke.travel/wp-content/uploads/2022/10/LOGO-WTK-OFICIAL-blanco-bolas.png)
 
 # Wateke Travel for Android
 
